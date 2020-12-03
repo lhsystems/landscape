@@ -1,4 +1,4 @@
-# CNT landscape application/generator forked from official CNCF landscape
+# LSY CNT landscape based upon official CNCF landscape
 
 ## How To Run Locally
 
