@@ -1,6 +1,16 @@
 # LSY CNT landscape based upon official CNCF landscape
 
-## How To Run Locally
+## Build time requirements
+
+* NodeJS
+* NPM
+* YARN
+
+## Runtime requirements
+
+* None (static website)
+
+## How-To
 
 Setup
 ```
