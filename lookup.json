@@ -1,0 +1,660 @@
+{
+  "organization": [
+    [
+      "id",
+      "url"
+    ],
+    [
+      "Org Name",
+      "org-name"
+    ]
+  ],
+  "landscape": [
+    [
+      "id",
+      "url",
+      "level",
+      "children",
+      "parentId",
+      "label",
+      "groupingLabel"
+    ],
+    [
+      "Provisioning",
+      "provisioning",
+      1,
+      [
+        "Provisioning / Automation & Configuration",
+        "Provisioning / Container Registry",
+        "Provisioning / Security & Compliance",
+        "Provisioning / Key Management"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "Provisioning / Automation & Configuration",
+      "automation-configuration",
+      2,
+      "!E",
+      "Provisioning",
+      "Automation & Configuration",
+      "Provisioning - Automation & Configuration"
+    ],
+    [
+      "Provisioning / Container Registry",
+      "container-registry",
+      2,
+      "!E",
+      "Provisioning",
+      "Container Registry",
+      "Provisioning - Container Registry"
+    ],
+    [
+      "Provisioning / Security & Compliance",
+      "security-compliance",
+      2,
+      "!E",
+      "Provisioning",
+      "Security & Compliance",
+      "Provisioning - Security & Compliance"
+    ],
+    [
+      "Provisioning / Key Management",
+      "key-management",
+      2,
+      "!E",
+      "Provisioning",
+      "Key Management",
+      "Provisioning - Key Management"
+    ],
+    [
+      "Runtime",
+      "runtime",
+      1,
+      [
+        "Runtime / Cloud Native Storage",
+        "Runtime / Container Runtime",
+        "Runtime / Cloud Native Network"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "Runtime / Cloud Native Storage",
+      "cloud-native-storage",
+      2,
+      "!E",
+      "Runtime",
+      "Cloud Native Storage",
+      "Runtime - Cloud Native Storage"
+    ],
+    [
+      "Runtime / Container Runtime",
+      "container-runtime",
+      2,
+      "!E",
+      "Runtime",
+      "Container Runtime",
+      "Runtime - Container Runtime"
+    ],
+    [
+      "Runtime / Cloud Native Network",
+      "cloud-native-network",
+      2,
+      "!E",
+      "Runtime",
+      "Cloud Native Network",
+      "Runtime - Cloud Native Network"
+    ],
+    [
+      "Orchestration & Management",
+      "orchestration-management",
+      1,
+      [
+        "Orchestration & Management / Scheduling & Orchestration",
+        "Orchestration & Management / Coordination & Service Discovery",
+        "Orchestration & Management / Remote Procedure Call",
+        "Orchestration & Management / Service Proxy",
+        "Orchestration & Management / API Gateway",
+        "Orchestration & Management / Service Mesh"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "Orchestration & Management / Scheduling & Orchestration",
+      "scheduling-orchestration",
+      2,
+      "!E",
+      "Orchestration & Management",
+      "Scheduling & Orchestration",
+      "Orchestration & Management - Scheduling & Orchestration"
+    ],
+    [
+      "Orchestration & Management / Coordination & Service Discovery",
+      "coordination-service-discovery",
+      2,
+      "!E",
+      "Orchestration & Management",
+      "Coordination & Service Discovery",
+      "Orchestration & Management - Coordination & Service Discovery"
+    ],
+    [
+      "Orchestration & Management / Remote Procedure Call",
+      "remote-procedure-call",
+      2,
+      "!E",
+      "Orchestration & Management",
+      "Remote Procedure Call",
+      "Orchestration & Management - Remote Procedure Call"
+    ],
+    [
+      "Orchestration & Management / Service Proxy",
+      "service-proxy",
+      2,
+      "!E",
+      "Orchestration & Management",
+      "Service Proxy",
+      "Orchestration & Management - Service Proxy"
+    ],
+    [
+      "Orchestration & Management / API Gateway",
+      "api-gateway",
+      2,
+      "!E",
+      "Orchestration & Management",
+      "API Gateway",
+      "Orchestration & Management - API Gateway"
+    ],
+    [
+      "Orchestration & Management / Service Mesh",
+      "service-mesh",
+      2,
+      "!E",
+      "Orchestration & Management",
+      "Service Mesh",
+      "Orchestration & Management - Service Mesh"
+    ],
+    [
+      "App Definition and Development",
+      "app-definition-and-development",
+      1,
+      [
+        "App Definition and Development / Database",
+        "App Definition and Development / Streaming & Messaging",
+        "App Definition and Development / Application Definition & Image Build",
+        "App Definition and Development / Continuous Integration & Delivery"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "App Definition and Development / Database",
+      "database",
+      2,
+      "!E",
+      "App Definition and Development",
+      "Database",
+      "App Definition and Development - Database"
+    ],
+    [
+      "App Definition and Development / Streaming & Messaging",
+      "streaming-messaging",
+      2,
+      "!E",
+      "App Definition and Development",
+      "Streaming & Messaging",
+      "App Definition and Development - Streaming & Messaging"
+    ],
+    [
+      "App Definition and Development / Application Definition & Image Build",
+      "application-definition-image-build",
+      2,
+      "!E",
+      "App Definition and Development",
+      "Application Definition & Image Build",
+      "App Definition and Development - Application Definition & Image Build"
+    ],
+    [
+      "App Definition and Development / Continuous Integration & Delivery",
+      "continuous-integration-delivery",
+      2,
+      "!E",
+      "App Definition and Development",
+      "Continuous Integration & Delivery",
+      "App Definition and Development - Continuous Integration & Delivery"
+    ],
+    [
+      "Platform",
+      "platform",
+      1,
+      [
+        "Platform / Certified Kubernetes - Distribution",
+        "Platform / Certified Kubernetes - Hosted",
+        "Platform / Certified Kubernetes - Installer"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "Platform / Certified Kubernetes - Distribution",
+      "certified-kubernetes-distribution",
+      2,
+      "!E",
+      "Platform",
+      "Certified Kubernetes - Distribution",
+      "Platform - Certified Kubernetes - Distribution"
+    ],
+    [
+      "Platform / Certified Kubernetes - Hosted",
+      "certified-kubernetes-hosted",
+      2,
+      "!E",
+      "Platform",
+      "Certified Kubernetes - Hosted",
+      "Platform - Certified Kubernetes - Hosted"
+    ],
+    [
+      "Platform / Certified Kubernetes - Installer",
+      "certified-kubernetes-installer",
+      2,
+      "!E",
+      "Platform",
+      "Certified Kubernetes - Installer",
+      "Platform - Certified Kubernetes - Installer"
+    ],
+    [
+      "Observability and Analysis",
+      "observability-and-analysis",
+      1,
+      [
+        "Observability and Analysis / Monitoring"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "Observability and Analysis / Monitoring",
+      "monitoring",
+      2,
+      "!E",
+      "Observability and Analysis",
+      "Monitoring",
+      "Observability and Analysis - Monitoring"
+    ],
+    [
+      "Special",
+      "special",
+      1,
+      [
+        "Special / bla2"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "Special / bla2",
+      "bla2",
+      2,
+      "!E",
+      "Special",
+      "bla2",
+      "Special - bla2"
+    ],
+    [
+      "Serverless",
+      "serverless",
+      1,
+      [
+        "Serverless / Security",
+        "Serverless / Tools",
+        "Serverless / Framework",
+        "Serverless / Hosted Platform",
+        "Serverless / Installable Platform"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "Serverless / Security",
+      "security",
+      2,
+      "!E",
+      "Serverless",
+      "Security",
+      "Serverless - Security"
+    ],
+    [
+      "Serverless / Tools",
+      "tools",
+      2,
+      "!E",
+      "Serverless",
+      "Tools",
+      "Serverless - Tools"
+    ],
+    [
+      "Serverless / Framework",
+      "framework",
+      2,
+      "!E",
+      "Serverless",
+      "Framework",
+      "Serverless - Framework"
+    ],
+    [
+      "Serverless / Hosted Platform",
+      "hosted-platform",
+      2,
+      "!E",
+      "Serverless",
+      "Hosted Platform",
+      "Serverless - Hosted Platform"
+    ],
+    [
+      "Serverless / Installable Platform",
+      "installable-platform",
+      2,
+      "!E",
+      "Serverless",
+      "Installable Platform",
+      "Serverless - Installable Platform"
+    ],
+    [
+      "CNCF Members",
+      "cncf-members",
+      1,
+      [
+        "CNCF Members / Platinum",
+        "CNCF Members / Gold",
+        "CNCF Members / Silver",
+        "CNCF Members / Academic",
+        "CNCF Members / Nonprofit",
+        "CNCF Members / End User Supporter"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "CNCF Members / Platinum",
+      "platinum",
+      2,
+      "!E",
+      "CNCF Members",
+      "Platinum",
+      "CNCF Members - Platinum"
+    ],
+    [
+      "CNCF Members / Gold",
+      "gold",
+      2,
+      "!E",
+      "CNCF Members",
+      "Gold",
+      "CNCF Members - Gold"
+    ],
+    [
+      "CNCF Members / Silver",
+      "silver",
+      2,
+      "!E",
+      "CNCF Members",
+      "Silver",
+      "CNCF Members - Silver"
+    ],
+    [
+      "CNCF Members / Academic",
+      "academic",
+      2,
+      "!E",
+      "CNCF Members",
+      "Academic",
+      "CNCF Members - Academic"
+    ],
+    [
+      "CNCF Members / Nonprofit",
+      "nonprofit",
+      2,
+      "!E",
+      "CNCF Members",
+      "Nonprofit",
+      "CNCF Members - Nonprofit"
+    ],
+    [
+      "CNCF Members / End User Supporter",
+      "end-user-supporter",
+      2,
+      "!E",
+      "CNCF Members",
+      "End User Supporter",
+      "End User Supporter"
+    ]
+  ],
+  "license": [
+    [
+      "id",
+      "label",
+      "url",
+      "level",
+      "children",
+      "parentId"
+    ],
+    [
+      "NotOpenSource",
+      "Not Open Source",
+      "not-open-source",
+      1,
+      [],
+      "!E"
+    ],
+    [
+      "Open Source",
+      "Open Source",
+      "open-source",
+      1,
+      [
+        "Apache License 2.0",
+        "BSD 3-Clause \"New\" or \"Revised\" License",
+        "GNU General Public License v2.0",
+        "GNU Lesser General Public License v2.1",
+        "MIT License",
+        "Mozilla Public License 2.0",
+        "Other",
+        "Unknown License"
+      ],
+      "!E"
+    ],
+    [
+      "Apache License 2.0",
+      "!E",
+      "apache-license-2-0",
+      2,
+      "!E",
+      "Open Source"
+    ],
+    [
+      "BSD 3-Clause \"New\" or \"Revised\" License",
+      "!E",
+      "bsd-3-clause-new-or-revised-license",
+      2,
+      "!E",
+      "Open Source"
+    ],
+    [
+      "GNU General Public License v2.0",
+      "!E",
+      "gnu-general-public-license-v2-0",
+      2,
+      "!E",
+      "Open Source"
+    ],
+    [
+      "GNU Lesser General Public License v2.1",
+      "!E",
+      "gnu-lesser-general-public-license-v2-1",
+      2,
+      "!E",
+      "Open Source"
+    ],
+    [
+      "MIT License",
+      "!E",
+      "mit-license",
+      2,
+      "!E",
+      "Open Source"
+    ],
+    [
+      "Mozilla Public License 2.0",
+      "!E",
+      "mozilla-public-license-2-0",
+      2,
+      "!E",
+      "Open Source"
+    ],
+    [
+      "Other",
+      "!E",
+      "other",
+      2,
+      "!E",
+      "Open Source"
+    ],
+    [
+      "Unknown License",
+      "!E",
+      "unknown-license",
+      2,
+      "!E",
+      "Open Source"
+    ]
+  ],
+  "headquarters": [
+    [
+      "id",
+      "url",
+      "level",
+      "children",
+      "label",
+      "groupingLabel",
+      "parentId"
+    ],
+    [
+      "undefined",
+      "undefined",
+      1,
+      [
+        "N/A"
+      ],
+      "!E",
+      "!E",
+      "!E"
+    ],
+    [
+      "N/A",
+      "n-a",
+      2,
+      "!E",
+      "N/A",
+      "N/A",
+      "undefined"
+    ]
+  ],
+  "crunchbaseSlugs": [],
+  "languages": [
+    "AMPL",
+    "ANTLR",
+    "ActionScript",
+    "AngelScript",
+    "Arc",
+    "Assembly",
+    "Awk",
+    "Batchfile",
+    "C",
+    "C%23",
+    "C%2B%2B",
+    "CMake",
+    "CSS",
+    "CoffeeScript",
+    "DIGITAL%20Command%20Language",
+    "DTrace",
+    "Dockerfile",
+    "Emacs%20Lisp",
+    "FreeMarker",
+    "GAP",
+    "GDB",
+    "Gherkin",
+    "Gnuplot",
+    "Go",
+    "Groovy",
+    "HCL",
+    "HTML",
+    "Handlebars",
+    "HiveQL",
+    "Java",
+    "JavaScript",
+    "Jupyter%20Notebook",
+    "Kotlin",
+    "LLVM",
+    "Less",
+    "Lex",
+    "Lua",
+    "M4",
+    "Makefile",
+    "Mako",
+    "Module%20Management%20System",
+    "NASL",
+    "Objective-C",
+    "Objective-C%2B%2B",
+    "Open%20Policy%20Agent",
+    "PHP",
+    "PLSQL",
+    "PLpgSQL",
+    "POV-Ray%20SDL",
+    "Pascal",
+    "Pawn",
+    "Perl",
+    "PowerShell",
+    "Python",
+    "R",
+    "RPC",
+    "Raku",
+    "Rich%20Text%20Format",
+    "Roff",
+    "Ruby",
+    "SAS",
+    "SCSS",
+    "SWIG",
+    "Scala",
+    "Scilab",
+    "Shell",
+    "Smarty",
+    "SourcePawn",
+    "Starlark",
+    "Stylus",
+    "Swift",
+    "TLA",
+    "TSQL",
+    "Tcl",
+    "Thrift",
+    "TypeScript",
+    "VBA",
+    "Vim%20script",
+    "Vue",
+    "XS",
+    "XSLT",
+    "Yacc",
+    "q",
+    "sed"
+  ]
+}

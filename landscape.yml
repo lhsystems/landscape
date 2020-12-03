@@ -1,0 +1,569 @@
+landscape:
+  - category:
+    name: Provisioning
+    subcategories:
+      - subcategory:
+        name: Automation & Configuration
+        items:
+          - item:
+            name: Terraform
+            homepage_url: 'https://www.terraform.io/'
+            repo_url: 'https://github.com/hashicorp/terraform'
+            logo: terraform.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Container Registry
+        items:
+          - item:
+            name: Amazon Elastic Container Registry (ECR)
+            description: >-
+              Amazon Elastic Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and
+              deploy Docker container images.
+            homepage_url: 'https://aws.amazon.com/ecr/'
+            logo: amazon-ecr.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Azure Registry
+            description: >-
+              Azure Container Registry allows you to store images for all types of container deployments including DC/OS, Docker Swarm, Kubernetes, and Azure
+              services such as App Service, Batch, Service Fabric, and others.
+            homepage_url: 'https://azure.microsoft.com/en-us/services/container-registry/'
+            logo: azure-registry.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Docker Registry
+            homepage_url: 'https://docs.docker.com/registry/'
+            repo_url: 'https://github.com/docker/distribution'
+            logo: docker-registry.svg
+            organization:
+              name: Org Name
+          - item:
+            name: JFrog Artifactory
+            description: >-
+              Shipping updates continuously and automatically has become a critical element of any successful operation. JFrog is revolutionizing the software
+              world with the practice of Continuous Update, with a speed and continuity that forever changes the way organizations manage and release software.
+            homepage_url: 'https://jfrog.com/artifactory/'
+            logo: j-frog-artifactory.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Security & Compliance
+        items:
+          - item:
+            name: Clair
+            homepage_url: 'https://coreos.com/clair/docs/latest/'
+            repo_url: 'https://github.com/quay/clair'
+            logo: clair.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Notary
+            homepage_url: 'https://github.com/theupdateframework/notary'
+            repo_url: 'https://github.com/theupdateframework/notary'
+            logo: notary.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Open Policy Agent (OPA)
+            homepage_url: 'https://www.openpolicyagent.org/'
+            repo_url: 'https://github.com/open-policy-agent/opa'
+            logo: opa.svg
+            organization:
+              name: Org Name
+          - item:
+            name: OpenSCAP
+            homepage_url: 'https://www.open-scap.org/'
+            repo_url: 'https://github.com/OpenSCAP/openscap'
+            logo: openscap.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Sonatype Nexus
+            homepage_url: 'https://www.sonatype.com/'
+            logo: sonatype.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Key Management
+        items:
+          - item:
+            name: Keycloak
+            homepage_url: 'https://www.keycloak.org'
+            repo_url: 'https://github.com/keycloak/keycloak'
+            logo: keycloak.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Vault
+            homepage_url: 'https://www.vault#project.io/'
+            repo_url: 'https://github.com/hashicorp/vault'
+            logo: vault.svg
+            organization:
+              name: Org Name
+  - category:
+    name: Runtime
+    subcategories:
+      - subcategory:
+        name: Cloud Native Storage
+        items:
+          - item:
+            name: Amazon Elastic Block Store (EBS)
+            description: >-
+              Amazon Elastic Block Store (EBS) is an easy to use, high performance block storage service designed for use with Amazon Elastic Compute Cloud
+              (EC2) for both throughput and transaction intensive workloads at any scale.
+            homepage_url: 'https://aws.amazon.com/ebs/'
+            logo: amazon-elastic-block-store.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Azure Disk Storage
+            description: 'Get HDD/SSD durability, scalability, availability, and security you need for all your workloads—from mission-critical workloads to test scenarios.'
+            homepage_url: 'https://azure.microsoft.com/en-us/services/storage/disks/'
+            logo: azure-disk-storage.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Container Storage Interface (CSI)
+            homepage_url: 'https://github.com/container-storage-interface'
+            repo_url: 'https://github.com/container-storage-interface/spec'
+            logo: container-storage-interface-csi.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Google Persistent Disk
+            description: >-
+              Google Persistent Disk is durable and high performance block storage for the Google Cloud Platform. Persistent Disk provides SSD and HDD storage
+              which can be attached to instances running in either Google Compute Engine or Google Kubernetes Engine. Storage volumes can be transparently
+              resized, quickly backed up, and offer the ability to support simultaneous readers.
+            homepage_url: 'https://cloud.google.com/persistent-disk'
+            logo: google-persistent-disk.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Portworx
+            homepage_url: 'https://portworx.com/'
+            logo: portworx.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Container Runtime
+        items:
+          - item:
+            name: containerd
+            homepage_url: 'https://containerd.io/'
+            repo_url: 'https://github.com/containerd/containerd'
+            logo: containerd.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Cloud Native Network
+        items:
+          - item:
+            name: Aviatrix
+            homepage_url: 'https://www.aviatrix.com/'
+            logo: aviatrix.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Container Network Interface (CNI)
+            homepage_url: 'https://github.com/containernetworking'
+            repo_url: 'https://github.com/containernetworking/cni'
+            logo: container-network-interface-cni.svg
+            organization:
+              name: Org Name
+          - item:
+            name: project Calico
+            homepage_url: 'https://www.#projectcalico.org/'
+            repo_url: 'https://github.com/projectcalico/calico'
+            logo: project-calico.svg
+            organization:
+              name: Org Name
+  - category:
+    name: Orchestration & Management
+    subcategories:
+      - subcategory:
+        name: Scheduling & Orchestration
+        items:
+          - item:
+            name: Kubernetes
+            description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
+            homepage_url: 'https://kubernetes.io/'
+            repo_url: 'https://github.com/kubernetes/kubernetes'
+            logo: kubernetes.svg
+            organization:
+              name: Org Name
+            allow_duplicate_repo: true
+      - subcategory:
+        name: Coordination & Service Discovery
+        items:
+          - item:
+            name: CoreDNS
+            homepage_url: 'https://coredns.io/'
+            repo_url: 'https://github.com/coredns/coredns'
+            logo: core-dns.svg
+            organization:
+              name: Org Name
+          - item:
+            name: etcd
+            homepage_url: 'https://github.com/etcd-io'
+            repo_url: 'https://github.com/etcd-io/etcd'
+            logo: etcd.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Remote Procedure Call
+        items:
+          - item:
+            name: gRPC
+            homepage_url: 'https://grpc.io/'
+            repo_url: 'https://github.com/grpc/grpc'
+            logo: grpc.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Service Proxy
+        items:
+          - item:
+            name: HAProxy
+            homepage_url: 'https://www.haproxy.com/'
+            repo_url: 'https://github.com/haproxy/haproxy'
+            logo: haproxy.svg
+            organization:
+              name: Org Name
+          - item:
+            name: NGINX
+            homepage_url: 'https://www.nginx.com/'
+            repo_url: 'https://github.com/nginx/nginx'
+            logo: nginx.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Traefik
+            homepage_url: 'https://traefik.io/traefik'
+            repo_url: 'https://github.com/traefik/traefik'
+            logo: traefik.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: API Gateway
+        items:
+          - item:
+            name: Kong
+            homepage_url: 'https://konghq.com/'
+            repo_url: 'https://github.com/Kong/kong'
+            logo: kong.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Service Mesh
+        items:
+          - item:
+            name: Consul
+            homepage_url: 'https://www.consul.io/'
+            repo_url: 'https://github.com/hashicorp/consul'
+            logo: consul.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Istio
+            homepage_url: 'https://istio.io/'
+            repo_url: 'https://github.com/istio/istio'
+            logo: istio.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Open Service Mesh
+            homepage_url: 'https://openservicemesh.io/'
+            repo_url: 'https://github.com/openservicemesh/osm'
+            logo: open-service-mesh.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Service Mesh Interface (SMI)
+            homepage_url: 'https://smi-spec.io'
+            repo_url: 'https://github.com/servicemeshinterface/smi-spec'
+            logo: service-mesh-interface.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Traefik Mesh
+            homepage_url: 'https://traefik.io/traefik-mesh'
+            repo_url: 'https://github.com/traefik/mesh'
+            logo: traefik-mesh.svg
+            organization:
+              name: Org Name
+  - category:
+    name: App Definition and Development
+    subcategories:
+      - subcategory:
+        name: Database
+        items:
+          - item:
+            name: MariaDB
+            homepage_url: 'https://mariadb.com/'
+            repo_url: 'https://github.com/MariaDB/server'
+            logo: mariadb.svg
+            organization:
+              name: Org Name
+          - item:
+            name: MongoDB
+            homepage_url: 'https://www.mongodb.com/'
+            repo_url: 'https://github.com/mongodb/mongo'
+            logo: mongo-db.svg
+            open_source: false
+            organization:
+              name: Org Name
+          - item:
+            name: MySQL
+            homepage_url: 'https://www.oracle.com/mysql/'
+            repo_url: 'https://github.com/mysql/mysql-server'
+            logo: my-sql.svg
+            twitter: 'https://twitter.com/mysql'
+            organization:
+              name: Org Name
+          - item:
+            name: Neo4j
+            homepage_url: 'https://neo4j.com'
+            repo_url: 'https://github.com/neo4j/neo4j'
+            logo: neo4j.svg
+            organization:
+              name: Org Name
+          - item:
+            name: PostgreSQL
+            homepage_url: 'https://www.postgresql.org/'
+            repo_url: 'https://github.com/postgres/postgres'
+            logo: postgre-sql.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Redis
+            homepage_url: 'https://redis.io/'
+            repo_url: 'https://github.com/redis/redis'
+            logo: redis.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Streaming & Messaging
+        items:
+          - item:
+            name: Apache Spark
+            homepage_url: 'https://spark.apache.org/'
+            repo_url: 'https://github.com/apache/spark'
+            logo: apache-spark.svg
+            twitter: 'https://twitter.com/apachespark'
+            organization:
+              name: Org Name
+          - item:
+            name: Kafka
+            homepage_url: 'https://kafka.apache.org/'
+            repo_url: 'https://github.com/apache/kafka'
+            logo: kafka.svg
+            twitter: 'https://twitter.com/apachekafka'
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Application Definition & Image Build
+        items:
+          - item:
+            name: Helm
+            homepage_url: 'https://helm.sh/'
+            repo_url: 'https://github.com/helm/helm'
+            logo: helm.svg
+            twitter: 'https://twitter.com/helmpack'
+            organization:
+              name: Org Name
+          - item:
+            name: OpenAPI
+            homepage_url: 'https://www.openapis.org/'
+            repo_url: 'https://github.com/OAI/OpenAPI-Specification'
+            logo: openapi.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Continuous Integration & Delivery
+        items:
+          - item:
+            name: Jenkins
+            homepage_url: 'https://jenkins.io/'
+            repo_url: 'https://github.com/jenkinsci/jenkins'
+            logo: jenkins.svg
+            twitter: 'https://twitter.com/jenkinsci'
+            organization:
+              name: Org Name
+  - category:
+    name: Platform
+    subcategories:
+      - subcategory:
+        name: Certified Kubernetes - Distribution
+        items: null
+      - subcategory:
+        name: Certified Kubernetes - Hosted
+        items:
+          - item:
+            name: Azure Kubernetes Service (AKS)
+            description: >-
+              Simplify the deployment, management, and operations of Kubernetes. Use a fully managed Kubernetes container orchestration service or choose other
+              orchestrators.
+            homepage_url: 'https://azure.microsoft.com/en-us/services/kubernetes-service/'
+            logo: azure-kubernetes-service.svg
+            twitter: 'https://twitter.com/Azure'
+            organization:
+              name: Org Name
+          - item:
+            name: Google Kubernetes Engine (GKE)
+            description: >-
+              GKE is an enterprise-grade platform for containerized applications, including stateful and stateless, AI and ML, Linux and Windows, complex and
+              simple web apps, API, and backend services.
+            homepage_url: 'https://cloud.google.com/kubernetes-engine/'
+            logo: google-kubernetes-engine.svg
+            twitter: 'https://twitter.com/GCPcloud'
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Certified Kubernetes - Installer
+        items:
+          - item:
+            name: Rancher Kubernetes Engine (RKE)
+            description: 'Rancher Kubernetes Engine, an extremely simple, lightning fast Kubernetes installer that works everywhere.'
+            homepage_url: 'https://github.com/rancher/rke'
+            repo_url: 'https://github.com/rancher/rke'
+            logo: rancher.svg
+            organization:
+              name: Org Name
+  - category:
+    name: Observability and Analysis
+    subcategories:
+      - subcategory:
+        name: Monitoring
+        items:
+          - item:
+            name: Datadog
+            homepage_url: 'https://www.datadoghq.com/'
+            logo: datadog.svg
+            organization:
+              name: Org Name
+  - category:
+    name: Special
+    subcategories:
+      - subcategory:
+        name: bla2
+        items: null
+  - category:
+    name: Serverless
+    subcategories:
+      - subcategory:
+        name: Security
+        items:
+          - item:
+            name: Protego
+            homepage_url: 'https://www.checkpoint.com/products/cloudguard-serverless-security'
+            logo: protego.svg
+            organization:
+              name: Org Name
+          - item:
+            name: Threat Stack
+            homepage_url: 'https://www.threatstack.com/'
+            logo: threat-stack.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Tools
+        items:
+          - item:
+            name: Cloud Native Landscape
+            homepage_url: 'https://landscape.cncf.io/'
+            repo_url: 'https://github.com/cncf/landscapeapp'
+            logo: 'https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/stacked/color/cncf-landscape-stacked-color.svg'
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Framework
+        items:
+          - item:
+            name: Architect
+            homepage_url: 'https://arc.codes/'
+            repo_url: 'https://github.com/architect/functions'
+            logo: architect.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Hosted Platform
+        items:
+          - item:
+            name: Algorithmia
+            homepage_url: 'https://algorithmia.com/product'
+            logo: algorithmia.svg
+            twitter: 'https://twitter.com/algorithmia'
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Installable Platform
+        items:
+          - item:
+            name: Apache Camel K
+            homepage_url: 'https://camel.apache.org'
+            repo_url: 'https://github.com/apache/camel-k'
+            logo: 'https://svn.apache.org/repos/asf/comdev/project-logos/originals/camel-1.svg'
+            twitter: 'https://twitter.com/apachecamel'
+            organization:
+              name: Org Name
+  - category:
+    name: CNCF Members
+    subcategories:
+      - subcategory:
+        name: Platinum
+        items:
+          - item:
+            name: Traefik Labs (member) 0
+            homepage_url: 'https://traefik.io'
+            logo: traefik-labs.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Gold
+        items:
+          - item:
+            name: Traefik Labs (member) 1
+            homepage_url: 'https://traefik.io'
+            logo: traefik-labs.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Silver
+        items:
+          - item:
+            name: Traefik Labs (member) 2
+            homepage_url: 'https://traefik.io'
+            logo: traefik-labs.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Academic
+        items:
+          - item:
+            name: Traefik Labs (member) 3
+            homepage_url: 'https://traefik.io'
+            logo: traefik-labs.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: Nonprofit
+        items:
+          - item:
+            name: Traefik Labs (member) 4
+            homepage_url: 'https://traefik.io'
+            logo: traefik-labs.svg
+            organization:
+              name: Org Name
+      - subcategory:
+        name: End User Supporter
+        items:
+          - item:
+            name: Traefik Labs (member) 5
+            homepage_url: 'https://traefik.io'
+            logo: traefik-labs.svg
+            organization:
+              name: Org Name
