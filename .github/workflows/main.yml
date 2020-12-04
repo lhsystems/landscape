@@ -24,18 +24,23 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      - name: Checkout landscapeapp
-        run: pwd && cd .. && git clone https://github.com/lhsystems/landscapeapp.git && pwd
-
+        
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
 
       # Runs a set of commands using the runners shell
-      - name: Setup yarn
+      - name: Build
         run: |
           pwd
+          cd ..
+          ls
+          git clone https://github.com/lhsystems/landscapeapp.git
+          pwd
+          ls
           cd landscapeapp
           yarn
+          export SKIP_VERSION_CHECK=1
+          export PROJECT_PATH=../landscape
+          yarn run build
