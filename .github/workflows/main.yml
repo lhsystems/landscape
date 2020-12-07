@@ -44,5 +44,6 @@ jobs:
           pwd
           ls
           cd landscapeapp
+          yarn
           yarn run build || true
           
