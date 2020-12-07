@@ -44,7 +44,5 @@ jobs:
           pwd
           ls
           cd landscapeapp
-          yarn
-          yarn fetch
-          yarn clean-dist
+          yarn run build || true
           
