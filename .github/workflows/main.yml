@@ -32,6 +32,10 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Build
+        env:
+          GITHUB_KEY: ${{ secrets.GITHUBKEY }}
+          SKIP_VERSION_CHECK: 1
+          PROJECT_PATH: ../landscape
         run: |
           pwd
           cd ..
@@ -41,6 +45,6 @@ jobs:
           ls
           cd landscapeapp
           yarn
-          export SKIP_VERSION_CHECK=1
-          export PROJECT_PATH=../landscape
-          yarn run build
+          yarn fetch
+          yarn clean-dist
+          
