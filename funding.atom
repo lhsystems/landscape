@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.lhsystems.com/</id>
+    <title>Funding changes</title>
+    <updated>2020-12-10T10:46:58.206Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>LSY</name>
+        <email>michael.wilmes@lhsystems.com</email>
+        <uri>https://www.lhsystems.com</uri>
+    </author>
+    <link rel="alternate" href="https://www.lhsystems.com"/>
+    <subtitle>That feed shows recent changes</subtitle>
+    <logo>https://www.lhsystems.com/favicon.png</logo>
+    <icon>https://www.lhsystems.com/favicon.png</icon>
+</feed>
