@@ -20,7 +20,7 @@ global:
   membership: CNCF Members
   flags:
     hide_license_for_categories:
-      - Special
+      - Education
       - CNCF Members
     hide_category_from_subcategories:
       - End User Supporter
@@ -205,81 +205,15 @@ big_picture:
         fit_height: true
         offset: 0
       - type: HorizontalCategory
-        category: Special
+        category: Education
         rows: 2
-        width: 1195
-        height: 300
-        top: 845
-        left: 310
-        color: 'rgb(179,77,77)'
-      - type: LandscapeInfo
-        width: 295
-        height: 300
+        width: 1175
+        height: 195
         top: 845
         left: 0
-        children:
-          - type: text
-            text: >
-              This landscape is intended as a map through the previously uncharted terrain of cloud native technologies. There are many routes to deploying a
-              cloud native application, with CNCF Projects representing a particularly well-traveled path.
-            top: 80
-            left: 120
-            right: 20
-            font_size: 11
-          - type: image
-            image: qr-l.svg
-            top: 80
-            left: 15
-            width: 90
-            height: 90
-            title: QR Code
-          - type: title
-            title: l.cncf.io
-            top: 168
-            left: 18
-            font_size: 23
-          - type: image
-            image: right-logo.svg
-            width: 109
-            right: 15
-            top: 15
-            title: CNCF Logo
-          - type: image
-            image: left-logo.svg
-            width: 140
-            left: 15
-            top: 15
-            title: Landscape Logo
-          - type: image
-            image: amplify.svg
-            width: 50
-            right: 15
-            top: 40
-            title: Amplify Logo
-          - type: image
-            image: redpoint.svg
-            width: 50
-            right: 75
-            top: 42
-            title: Redpoint Logo
-      - type: LandscapeLink
-        url: serverless
-        title: Serverless
-        layout: category
-        left: 1520
-        top: 530
-        width: 420
-        height: 240
-        color: 'rgb(64,117,191)'
-      - type: LandscapeLink
-        url: members
-        title: Members
-        layout: category
-        left: 1520
-        top: 800
-        width: 420
-        height: 280
-        color: 'rgb(64,117,191)'
+        color: 'rgb(179,77,77)'
+        fit_width: true
+        offset: 0
   extra:
     tab_index: 1
     url: serverless
@@ -335,60 +269,6 @@ big_picture:
         left: 490
         fit_width: true
         color: 'rgb(83,115,38)'
-      - type: LandscapeInfo
-        width: 520
-        height: 120
-        top: 330
-        left: 0
-        children:
-          - type: text
-            text: >
-              Serverless computing refers to a new model of cloud native computing, enabled by architectures that do not require server management to build and
-              run applications. This landscape illustrates a finer-grained deployment model where applications, bundled as one or more functions, are uploaded
-              to a platform and then executed, scaled, and billed in response to the exact demand needed at the moment
-            top: 10
-            left: 90
-            right: 150
-            font_size: 9
-          - type: image
-            image: qr-s.svg
-            top: 10
-            left: 5
-            width: 70
-            height: 70
-            title: QR Code
-          - type: title
-            title: s.cncf.io
-            top: 75
-            left: 10
-            font_size: 16
-          - type: image
-            image: left-logo.svg
-            width: 110
-            right: 15
-            top: 10
-            title: Landscape Logo
-          - type: image
-            image: right-logo.svg
-            width: 109
-            right: 15
-            top: 45
-            title: CNCF Logo
-          - type: image
-            image: redpoint.svg
-            width: 109
-            right: 15
-            top: 70
-            title: Redpoint Logo
-      - type: LandscapeLink
-        url: landscape
-        title: Cloud Native Landscape
-        layout: subcategory
-        left: 635
-        top: 325
-        width: 185
-        height: 125
-        color: 'rgb(118, 181, 237)'
     category: Serverless
 test:
   header: CNCF Cloud Native Interactive Landscape

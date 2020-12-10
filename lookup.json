@@ -290,24 +290,24 @@
       "Observability and Analysis - Monitoring"
     ],
     [
-      "Special",
-      "special",
+      "Education",
+      "education",
       1,
       [
-        "Special / bla2"
+        "Education / Training"
       ],
       "!E",
       "!E",
       "!E"
     ],
     [
-      "Special / bla2",
-      "bla2",
+      "Education / Training",
+      "training",
       2,
       "!E",
-      "Special",
-      "bla2",
-      "Special - bla2"
+      "Education",
+      "Training",
+      "Education - Training"
     ],
     [
       "Serverless",

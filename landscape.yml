@@ -446,10 +446,10 @@ landscape:
             organization:
               name: Org Name
   - category:
-    name: Special
+    name: Education
     subcategories:
       - subcategory:
-        name: bla2
+        name: Training
         items: null
   - category:
     name: Serverless

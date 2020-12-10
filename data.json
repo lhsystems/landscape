@@ -66,14 +66,14 @@
     "firstCommitDate": "2014-05-21T23:28:53Z",
     "firstCommitLink": "https://github.com/hashicorp/terraform/commit/649cf336e86da10910f6e50ea3cfaad507a2e336",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T20:52:48Z"
     },
     "latestCommitLink": "https://github.com/hashicorp/terraform/commit/d4716a69e1b345b274c7f9669897ec8e693d9af0",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-21T19:33:54Z"
     },
     "releaseLink": "https://github.com/hashicorp/terraform/releases",
@@ -229,8 +229,8 @@
     "firstCommitDate": "2014-10-21T20:25:04Z",
     "firstCommitLink": "https://github.com/docker/distribution/commit/12e68998e101a43d6616ac950beb6e91e06b57b2",
     "latestCommitDate": {
-      "text": "3 months ago",
-      "value": "940",
+      "text": "4 months ago",
+      "value": "930",
       "original": "2020-08-26T22:24:20Z"
     },
     "latestCommitLink": "https://github.com/docker/distribution/commit/2800ab02245e2eafc10e338939511dd1aeb5e135",
@@ -354,14 +354,14 @@
     "firstCommitDate": "2015-11-13T19:11:28Z",
     "firstCommitLink": "https://github.com/coreos/clair/commit/3ec262dd51466100b44910b60308e46b00f2a097",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T19:20:47Z"
     },
     "latestCommitLink": "https://github.com/quay/clair/commit/157628dfe1c7f1f837dc8df0e622a2d64a31c79a",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-21T19:26:33Z"
     },
     "releaseLink": "https://github.com/quay/clair/releases",
@@ -578,8 +578,8 @@
     "firstCommitDate": "2015-12-28T22:08:25Z",
     "firstCommitLink": "https://github.com/open-policy-agent/opa/commit/7eb56674c51d286afa134861ba282bf7a13668c6",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T19:28:23Z"
     },
     "latestCommitLink": "https://github.com/open-policy-agent/opa/commit/4671822476b0083fc9f539f28db18b527c023d21",
@@ -724,8 +724,8 @@
     "firstCommitDate": "2008-11-03T16:58:30Z",
     "firstCommitLink": "https://github.com/OpenSCAP/openscap/commit/768d2d13c7b95736738ce2a48db7f2e528c161fe",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-21T08:06:25Z"
     },
     "latestCommitLink": "https://github.com/OpenSCAP/openscap/commit/1a949aa9515ddc92a93d16f694d7deeac8d641ab",
@@ -906,8 +906,8 @@
     "firstCommitDate": "2013-07-02T13:38:51Z",
     "firstCommitLink": "https://github.com/keycloak/keycloak/commit/503cede15eb8a5877a2e91a639286dbfcfb86fbd",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T19:46:06Z"
     },
     "latestCommitLink": "https://github.com/keycloak/keycloak/commit/c98048bf642fe576ce53e85ed252722943fdc7de",
@@ -1025,8 +1025,8 @@
     "firstCommitDate": "2015-02-25T00:15:59Z",
     "firstCommitLink": "https://github.com/hashicorp/vault/commit/ed3069f01d4ee023d296212a3521d3354f109194",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T20:13:09Z"
     },
     "latestCommitLink": "https://github.com/hashicorp/vault/commit/e4421691da21c5f745515589176877ee9cb0c02a",
@@ -1340,8 +1340,8 @@
     "firstCommitDate": "2015-11-05T23:29:53Z",
     "firstCommitLink": "https://github.com/containerd/containerd/commit/15a96783ca2ac8c0eb2c400701e8eb335059c63b",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T14:25:45Z"
     },
     "latestCommitLink": "https://github.com/containerd/containerd/commit/656b487d333db8ad7134d26cfe12358c46c2b7f8",
@@ -1592,14 +1592,14 @@
     "firstCommitDate": "2016-07-21T15:45:54Z",
     "firstCommitLink": "https://github.com/projectcalico/calico/commit/8e3d75dd58a2d93eddfdf53baad931004d7fb783",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T07:20:52Z"
     },
     "latestCommitLink": "https://github.com/projectcalico/calico/commit/f0e8bb3a8b1772da5fddb8087e3ed74245a4921d",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T17:09:05Z"
     },
     "releaseLink": "https://github.com/projectcalico/calico/releases",
@@ -1728,14 +1728,14 @@
     "firstCommitDate": "2014-06-06T23:40:48Z",
     "firstCommitLink": "https://github.com/kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T23:47:00Z"
     },
     "latestCommitLink": "https://github.com/kubernetes/kubernetes/commit/1f756e4a375ce0fe7bd0e35f9dd45fec32df007a",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-20T09:54:31Z"
     },
     "releaseLink": "https://github.com/kubernetes/kubernetes/releases",
@@ -1822,14 +1822,14 @@
     "firstCommitDate": "2016-03-18T20:57:35Z",
     "firstCommitLink": "https://github.com/coredns/coredns/commit/3ec0d9fe6b133a64712ae69fd712c14ad1a71f4d",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T08:52:10Z"
     },
     "latestCommitLink": "https://github.com/coredns/coredns/commit/054c9ae1fbea39d586652664fbc9a5cedbd97618",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T08:59:20Z"
     },
     "releaseLink": "https://github.com/coredns/coredns/releases",
@@ -1927,14 +1927,14 @@
     "firstCommitDate": "2013-06-07T00:43:32Z",
     "firstCommitLink": "https://github.com/etcd-io/etcd/commit/20ca21a3f7122cf7caa91cb0e9b9c69be9279950",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T22:55:15Z"
     },
     "latestCommitLink": "https://github.com/etcd-io/etcd/commit/8866d55b9bc8539f5f15db33cc78b9737cad0394",
     "releaseDate": {
-      "text": "3 months ago",
-      "value": "940",
+      "text": "4 months ago",
+      "value": "930",
       "original": "2020-08-24T19:51:40Z"
     },
     "releaseLink": "https://github.com/etcd-io/etcd/releases",
@@ -2126,14 +2126,14 @@
     "firstCommitDate": "2014-11-22T00:16:16Z",
     "firstCommitLink": "https://github.com/grpc/grpc/commit/0e905e63db21bcdd85d3d1af051fcdc5bb5caa38",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T23:30:17Z"
     },
     "latestCommitLink": "https://github.com/grpc/grpc/commit/01596014afcadb0f535049723acbbc8d7fccd32c",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-21T00:33:08Z"
     },
     "releaseLink": "https://github.com/grpc/grpc/releases",
@@ -2244,8 +2244,8 @@
     "firstCommitDate": "2005-12-17T11:21:26Z",
     "firstCommitLink": "https://github.com/haproxy/haproxy/commit/0f7af9126525b01b82ad3f1b1cde8843de93a89d",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T20:47:30Z"
     },
     "latestCommitLink": "https://github.com/haproxy/haproxy/commit/bd7151002437af1a034a9fdbb582b3cbef5a78d1",
@@ -2340,8 +2340,8 @@
     "firstCommitDate": "2002-08-06T16:39:45Z",
     "firstCommitLink": "https://github.com/nginx/nginx/commit/6de5c2cb63f8aee4bcbec3c363a72fd8e4a4e64d",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T15:02:28Z"
     },
     "latestCommitLink": "https://github.com/nginx/nginx/commit/9cdb278454367448366354f2786b36c1fef1f92e",
@@ -2452,14 +2452,14 @@
     "firstCommitDate": "2015-08-28T16:09:22Z",
     "firstCommitLink": "https://github.com/containous/traefik/commit/3680c8dc604ee9d0277973a55641f47fd257b564",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T12:29:22Z"
     },
     "latestCommitLink": "https://github.com/traefik/traefik/commit/4fccde84bd839afd0f784c3783f2dde7d0f7e8e1",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-19T19:24:27Z"
     },
     "releaseLink": "https://github.com/traefik/traefik/releases",
@@ -2552,14 +2552,14 @@
     "firstCommitDate": "2014-11-17T23:56:08Z",
     "firstCommitLink": "https://github.com/Kong/kong/commit/ffd70b3101ba38d9acc776038d124f6e2fccac3c",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T15:34:21Z"
     },
     "latestCommitLink": "https://github.com/Kong/kong/commit/4c1a1ea89d0f557a0e36f8a0ac71c3130f28161b",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-19T20:00:34Z"
     },
     "releaseLink": "https://github.com/Kong/kong/releases",
@@ -2679,14 +2679,14 @@
     "firstCommitDate": "2013-11-04T22:15:27Z",
     "firstCommitLink": "https://github.com/hashicorp/consul/commit/0a7996bc4f504894dbd09bac349a2d9999ec9dd6",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T22:36:53Z"
     },
     "latestCommitLink": "https://github.com/hashicorp/consul/commit/d3d9cb1d50e682eb445267de88ac344721c7a7ff",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T21:08:14Z"
     },
     "releaseLink": "https://github.com/hashicorp/consul/releases",
@@ -2793,14 +2793,14 @@
     "firstCommitDate": "2016-11-18T23:57:24Z",
     "firstCommitLink": "https://github.com/istio/istio/commit/0216e811e9da88b867742710f7d166cef2eabfbc",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-24T00:10:39Z"
     },
     "latestCommitLink": "https://github.com/istio/istio/commit/01e46847e53cb17a7293f781642ad88adf2806e1",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T00:46:03Z"
     },
     "releaseLink": "https://github.com/istio/istio/releases",
@@ -2893,8 +2893,8 @@
     "firstCommitDate": "2019-12-13T18:04:24Z",
     "firstCommitLink": "https://github.com/openservicemesh/osm/commit/7cbc08c7a77bbd71a8e0f9ce6144ebe41458be17",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T22:44:27Z"
     },
     "latestCommitLink": "https://github.com/openservicemesh/osm/commit/0be40ed8bdb7dd64866f3c6812d73eb0380f5d15",
@@ -2973,8 +2973,8 @@
     "firstCommitDate": "2019-03-26T03:22:43Z",
     "firstCommitLink": "https://github.com/deislabs/smi-spec/commit/f6f7a2dbc772db2ea9cf4763e0252a997a647afe",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T13:57:46Z"
     },
     "latestCommitLink": "https://github.com/servicemeshinterface/smi-spec/commit/5807e0f5478cec48e82e39b6922530e960fb6bef",
@@ -3063,14 +3063,14 @@
     "firstCommitDate": "2019-05-03T19:59:07Z",
     "firstCommitLink": "https://github.com/containous/maesh/commit/31edc96721235548b3b60b4469eb0fbf6588eb62",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T07:10:59Z"
     },
     "latestCommitLink": "https://github.com/traefik/mesh/commit/45657597cba95ea1ead8885a1cfd76051cc34895",
     "releaseDate": {
-      "text": "2 months ago",
-      "value": "950",
+      "text": "3 months ago",
+      "value": "940",
       "original": "2020-09-23T12:53:16Z"
     },
     "releaseLink": "https://github.com/traefik/mesh/releases",
@@ -3298,8 +3298,8 @@
     "firstCommitDate": "2000-07-31T19:10:05Z",
     "firstCommitLink": "https://github.com/MariaDB/server/commit/7eec25e393727b16bb916b50d82b0aa3084e065c",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-21T20:29:03Z"
     },
     "latestCommitLink": "https://github.com/MariaDB/server/commit/e6f95b23f425001a14a528256354e0faf4e272f6",
@@ -3433,8 +3433,8 @@
     "firstCommitDate": "2007-10-19T23:35:48Z",
     "firstCommitLink": "https://github.com/mongodb/mongo/commit/e73188b5512c82290a4070af4afddac20d0b981e",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-24T02:30:20Z"
     },
     "latestCommitLink": "https://github.com/mongodb/mongo/commit/2792042b5a81b2f4969243187e5fd9b41325c85f",
@@ -3689,8 +3689,8 @@
     "firstCommitDate": "2000-07-31T19:10:05Z",
     "firstCommitLink": "https://github.com/mysql/mysql-server/commit/7eec25e393727b16bb916b50d82b0aa3084e065c",
     "latestCommitDate": {
-      "text": "2 months ago",
-      "value": "950",
+      "text": "3 months ago",
+      "value": "940",
       "original": "2020-09-23T12:11:18Z"
     },
     "latestCommitLink": "https://github.com/mysql/mysql-server/commit/ee4455a33b10f1b1886044322e4893f587b319ed",
@@ -3702,8 +3702,8 @@
     "license": "Other",
     "headquarters": "N/A",
     "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-21T22:01:37.000Z"
     },
     "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.",
@@ -3963,8 +3963,8 @@
     "firstCommitDate": "1996-07-09T06:22:35Z",
     "firstCommitLink": "https://github.com/postgres/postgres/commit/d31084e9d1118b25fd16580d9d8c2924b5740dff",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-24T01:29:55Z"
     },
     "latestCommitLink": "https://github.com/postgres/postgres/commit/0b46e82c06b0c4b0dc6a94a890d23945ebf720fd",
@@ -4071,8 +4071,8 @@
     "firstCommitDate": "2009-03-22T09:30:00Z",
     "firstCommitLink": "https://github.com/antirez/redis/commit/ed9b544e10b84cd43348ddfab7068b610a5df1f7",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T12:26:30Z"
     },
     "latestCommitLink": "https://github.com/redis/redis/commit/e05a7df7f942a2e17dee3e0e3d67d80e8d1d2e6e",
@@ -4243,8 +4243,8 @@
     "firstCommitDate": "2010-03-29T23:17:55Z",
     "firstCommitLink": "https://github.com/apache/spark/commit/df29d0ea4c8b7137fdd1844219c7d489e3b0d9c9",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-24T01:00:04Z"
     },
     "latestCommitLink": "https://github.com/apache/spark/commit/d7f15b025b16c99768516cfb7fd96ab2e6ee1c2b",
@@ -4356,8 +4356,8 @@
     "firstCommitDate": "2011-08-01T23:41:24Z",
     "firstCommitLink": "https://github.com/apache/kafka/commit/642da2f28c9bc6e373603d6d9119ce33684090f5",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T01:14:27Z"
     },
     "latestCommitLink": "https://github.com/apache/kafka/commit/94820ca652aceccef5f617e6ca139d139fa25a1b",
@@ -4369,8 +4369,8 @@
     "license": "Apache License 2.0",
     "headquarters": "N/A",
     "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-19T17:44:09.000Z"
     },
     "description": "Mirror of Apache Kafka",
@@ -4446,14 +4446,14 @@
     "firstCommitDate": "2015-11-02T23:52:56Z",
     "firstCommitLink": "https://github.com/helm/helm/commit/94db53d0803034083a3a9b1c7a9a197c327eb6b0",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T16:26:26Z"
     },
     "latestCommitLink": "https://github.com/helm/helm/commit/82f739072cb3c94f26e3103e4524a1f74526342d",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-19T21:55:24Z"
     },
     "releaseLink": "https://github.com/helm/helm/releases",
@@ -4465,8 +4465,8 @@
     "license": "Apache License 2.0",
     "headquarters": "N/A",
     "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T21:19:37.000Z"
     },
     "description": "The Kubernetes Package Manager",
@@ -4674,14 +4674,14 @@
     "firstCommitDate": "2006-11-05T21:16:01Z",
     "firstCommitLink": "https://github.com/jenkinsci/jenkins/commit/8a0dc230f44e84e5a7f7920cf9a31f09a54999ac",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T18:36:38Z"
     },
     "latestCommitLink": "https://github.com/jenkinsci/jenkins/commit/87b72f57c3eaee2814fd63c12a9bc88b46015f28",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-20T14:33:17Z"
     },
     "releaseLink": "https://github.com/jenkinsci/jenkins/releases",
@@ -4693,8 +4693,8 @@
     "license": "MIT License",
     "headquarters": "N/A",
     "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-23T20:11:31.000Z"
     },
     "description": "Jenkins automation server",
@@ -4734,8 +4734,8 @@
     "license": "NotOpenSource",
     "headquarters": "N/A",
     "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-24T00:00:00.000Z"
     },
     "crunchbaseData": {
@@ -4774,8 +4774,8 @@
     "license": "NotOpenSource",
     "headquarters": "N/A",
     "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-24T00:12:33.000Z"
     },
     "crunchbaseData": {
@@ -4855,14 +4855,14 @@
     "firstCommitDate": "2017-10-26T00:02:49Z",
     "firstCommitLink": "https://github.com/rancher/rke/commit/60574a70bb60f355c91cf566091200c7d5f76e4c",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T20:38:52Z"
     },
     "latestCommitLink": "https://github.com/rancher/rke/commit/24c5854fb89e1a422e5d42cda218c0425e6ccbcc",
     "releaseDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-24T00:12:19Z"
     },
     "releaseLink": "https://github.com/rancher/rke/releases",
@@ -5177,8 +5177,8 @@
     "license": "NotOpenSource",
     "headquarters": "N/A",
     "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T16:36:12.000Z"
     },
     "description": null,
@@ -5288,8 +5288,8 @@
     "firstCommitDate": "2018-08-31T08:46:30Z",
     "firstCommitLink": "https://github.com/apache/camel-k/commit/55fca8ee59ca67450bd114065872b0849917f132",
     "latestCommitDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-24T03:19:29Z"
     },
     "latestCommitLink": "https://github.com/apache/camel-k/commit/ee1398c17d0adaae690a8a3effb82e7e113eef54",
@@ -5307,8 +5307,8 @@
     "license": "Apache License 2.0",
     "headquarters": "N/A",
     "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2020-10-22T08:30:06.000Z"
     },
     "description": "Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers",
