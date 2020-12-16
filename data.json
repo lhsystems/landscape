@@ -730,8 +730,8 @@
     },
     "latestCommitLink": "https://github.com/OpenSCAP/openscap/commit/1a949aa9515ddc92a93d16f694d7deeac8d641ab",
     "releaseDate": {
-      "text": "2 months ago",
-      "value": "950",
+      "text": "3 months ago",
+      "value": "940",
       "original": "2020-10-01T18:39:07Z"
     },
     "releaseLink": "https://github.com/OpenSCAP/openscap/releases",
@@ -1172,14 +1172,14 @@
     "firstCommitDate": "2017-05-19T04:23:40Z",
     "firstCommitLink": "https://github.com/container-storage-interface/spec/commit/1396c5bc6acfb4a2440dd633b2a62ba60ea9273b",
     "latestCommitDate": {
-      "text": "6 months ago",
-      "value": "910",
+      "text": "7 months ago",
+      "value": "900",
       "original": "2020-06-03T21:24:20Z"
     },
     "latestCommitLink": "https://github.com/container-storage-interface/spec/commit/baa71a34651e5ee6cb983b39c03097d7aa384278",
     "releaseDate": {
-      "text": "6 months ago",
-      "value": "910",
+      "text": "7 months ago",
+      "value": "900",
       "original": "2020-06-03T21:16:46Z"
     },
     "releaseLink": "https://github.com/container-storage-interface/spec/releases",
@@ -1465,8 +1465,8 @@
     },
     "latestCommitLink": "https://github.com/containernetworking/cni/commit/6fc72a49e9ad357698b64634d60e0a83300284bf",
     "releaseDate": {
-      "text": "5 months ago",
-      "value": "920",
+      "text": "6 months ago",
+      "value": "910",
       "original": "2020-07-01T15:39:11Z"
     },
     "releaseLink": "https://github.com/containernetworking/cni/releases",
