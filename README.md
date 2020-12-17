@@ -2,7 +2,7 @@
 
 ![Build and Deploy](https://github.com/lhsystems/landscape/workflows/Build%20and%20Deploy/badge.svg?branch=master)
 
-The Lufthansa Systems Landscape App shows the CNCF-style landscape app with a filtered view with technologies that we use.
+This is the [Lufthansa Systems Landscape App](https://landscape.cnt.lhsystems.com) which shows the CNCF-style landscape app with a filtered view with technologies that we use.
 
 ## Build time requirements
 
