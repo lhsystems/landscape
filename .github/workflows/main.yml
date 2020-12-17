@@ -37,12 +37,8 @@ jobs:
           SKIP_VERSION_CHECK: 1
           PROJECT_PATH: ../landscape
         run: |
-          pwd
           cd ..
-          ls
           git clone https://github.com/lhsystems/landscapeapp.git
-          pwd
-          ls
           cd landscapeapp
           yarn
           yarn run build || true
