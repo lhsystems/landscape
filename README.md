@@ -1,5 +1,9 @@
 # LSY CNT landscape based upon official CNCF landscape
 
+![Build and Deploy](https://github.com/lhsystems/landscape/workflows/Build%20and%20Deploy/badge.svg?branch=master)
+
+The Lufthansa Systems Landscape App shows the CNCF-style landscape app with a filtered view with technologies that we use.
+
 ## Build time requirements
 
 * NodeJS
@@ -37,5 +41,3 @@ cd ../landscape/dist
 # Serve this directory by whatever webserver, example:
 python3 -m http.server
 ```
-
-
