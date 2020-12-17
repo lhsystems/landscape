@@ -41,3 +41,7 @@ cd ../landscape/dist
 # Serve this directory by whatever webserver, example:
 python3 -m http.server
 ```
+
+## Contributing
+
+Please check out the [contributing guideline](CONTRIBUTING.md) before sending a pull request!
