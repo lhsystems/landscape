@@ -458,8 +458,8 @@
     "firstCommitDate": "2015-03-27T22:57:48Z",
     "firstCommitLink": "https://github.com/theupdateframework/notary/commit/495dce997d6353738e1f115b0d2b24fc880c959e",
     "latestCommitDate": {
-      "text": "4 months ago",
-      "value": "930",
+      "text": "5 months ago",
+      "value": "920",
       "original": "2020-08-04T14:39:15Z"
     },
     "latestCommitLink": "https://github.com/theupdateframework/notary/commit/84287fd8df4f172c9a8289641cdfa355fc86989d",
@@ -1459,8 +1459,8 @@
     "firstCommitDate": "2015-04-05T03:35:49Z",
     "firstCommitLink": "https://github.com/containernetworking/cni/commit/502be19aed3557ddb775fe133b095ad6e6eb87bf",
     "latestCommitDate": {
-      "text": "4 months ago",
-      "value": "930",
+      "text": "5 months ago",
+      "value": "920",
       "original": "2020-08-05T19:43:21Z"
     },
     "latestCommitLink": "https://github.com/containernetworking/cni/commit/6fc72a49e9ad357698b64634d60e0a83300284bf",
@@ -5052,8 +5052,8 @@
     "firstCommitDate": "2018-12-02T14:23:09Z",
     "firstCommitLink": "https://github.com/cncf/landscapeapp/commit/743b6ebfca0d97ce8d773c8e642f3329965efeec",
     "latestCommitDate": {
-      "text": "2 months ago",
-      "value": "950",
+      "text": "3 months ago",
+      "value": "940",
       "original": "2020-10-06T08:30:16Z"
     },
     "latestCommitLink": "https://github.com/cncf/landscapeapp/commit/69de9493b93b32ca011aed788e27c2b84b494bca",
