@@ -1,4 +1,4 @@
-# LSY CNT landscape based upon official CNCF landscape
+# LSY landscape app based upon official CNCF landscape
 
 ![Build and Deploy](https://github.com/lhsystems/landscape/workflows/Build%20and%20Deploy/badge.svg?branch=master)
 
